@@ -2,8 +2,9 @@
 
 IC = instrument cluster
 
-MCU = media control unit (Infotainment computer for Model S/X; synonym with cid; mcu1 usually refers to tegra; mcu2 usually refers to intel)
-
+MCU = media control unit (Infotainment computer for Model S/X; mcu1 usually refers to tegra; mcu2 usually refers to intel)
+      MCU isn't synonym with CID, MCU contains CID and GW.  (CID is linux side, MCU is whole physical box)
+      
 CID = central information display (Infotainment computer for model S/X; synonym with mcu)
 
 APE = Autopilot Engine
@@ -31,7 +32,7 @@ TPMS = tire pressure monitoring system
 
 EPAS = Electric power assisted steering
 
-THC = thermal controller
+THC = thermal-hydro controller
 
 RADC = radar controller
 
