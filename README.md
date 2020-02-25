@@ -5,7 +5,7 @@ IC = instrument cluster
 MCU = media control unit (Infotainment computer for Model S/X; mcu1 usually refers to tegra; mcu2 usually refers to intel)
       MCU isn't synonym with CID, MCU contains CID and GW.  (CID is linux side, MCU is whole physical box)
       
-CID = central information display (Infotainment computer for model S/X; synonym with mcu)
+CID = central information display (Infotainment computer for model S/X)
 
 APE = Autopilot Engine
 
